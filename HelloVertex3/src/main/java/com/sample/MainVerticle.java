@@ -15,6 +15,8 @@ public class MainVerticle extends AbstractVerticle {
 		// TODO Auto-generated method stub
 		super.start();
 		
+		// merge test 1111
+		
 		log.info("deploy start...");
 		
 		// config loading...
