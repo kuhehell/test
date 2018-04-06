@@ -1,0 +1,5 @@
+hsy-config:
+  profile: default
+  test:
+    first: Hello
+    second: default world
